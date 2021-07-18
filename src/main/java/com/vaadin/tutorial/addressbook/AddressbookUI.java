@@ -1,4 +1,4 @@
-package com.vaadin.tutorial.addressbook;
+ppackage com.vaadin.tutorial.addressbook;
 
 import javax.servlet.annotation.WebServlet;
 
